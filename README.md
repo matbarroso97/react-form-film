@@ -176,7 +176,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 **Matheus Barroso**
 - GitHub: [@matbarroso97](https://github.com/matbarroso97)
-- Projeto: [react-form-film](https://github.com/matbarroso97/react-form-film)
+- Projeto: [react-form-film](https://react-form-film.vercel.app/)
 
 ## 🙏 Agradecimentos
 
