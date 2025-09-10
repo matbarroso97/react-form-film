@@ -43,40 +43,10 @@ my-app/
 └── README.md                  # Documentação do projeto
 ```
 
-## 🛠️ Instalação e Execução
 
-### Pré-requisitos
-- Node.js 18+ instalado
-- npm ou yarn
 
-### Passos para executar
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/matbarroso97/react-form-film.git
-   cd react-form-film
-   ```
-
-2. **Instale as dependências**
-   ```bash
-   npm install
-   # ou
-   yarn install
-   ```
-
-3. **Execute o projeto**
-   ```bash
-   npm run dev
-   # ou
-   yarn dev
-   ```
-
-4. **Acesse no navegador**
-   ```
-   http://localhost:3000
-   ```
-
-## 📖 Como Usar
+## 📖 Projeto
+- Projeto: [react-form-film](https://react-form-film.vercel.app/)
 
 ### Adicionando um Filme
 1. Preencha o formulário "Novo Filme"
@@ -148,43 +118,10 @@ O código está completamente documentado com comentários explicativos sobre:
 - **Acessibilidade**: ARIA labels e atributos
 - **Estilização**: Classes Tailwind CSS
 
-## 🚀 Deploy
-
-### Vercel (Recomendado)
-1. Conecte seu repositório GitHub à Vercel
-2. Configure as variáveis de ambiente (se necessário)
-3. Deploy automático a cada push
-
-### Netlify
-1. Build command: `npm run build`
-2. Publish directory: `.next`
-3. Deploy automático via GitHub
-
-## 🤝 Contribuição
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 👨‍💻 Autor
 
 **Matheus Barroso**
 - GitHub: [@matbarroso97](https://github.com/matbarroso97)
-- Projeto: [react-form-film](https://react-form-film.vercel.app/)
 
-## 🙏 Agradecimentos
 
-- Next.js team pela excelente documentação
-- Tailwind CSS pela framework de estilos
-- React team pela biblioteca incrível
-- Comunidade open source por todas as contribuições
-
----
-
-⭐ **Se este projeto te ajudou, considere dar uma estrela!** ⭐
